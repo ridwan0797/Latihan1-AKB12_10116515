@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lat1_AKB12_10116515</string>
+    <string name="monitory_membantu_anda">Monitory Membantu Anda</string>
+    <string name="mengontrol_hp_anak">Mengontrol HP Anak</string>
+    <string name="background">background</string>
+    <string name="button_mulai">Button</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="ketikan_kode_keluarga_yang_ayah_bunda_miliki_disini">Ketikan Kode Keluarga yang Ayah Bunda Miliki disini</string>
+    <string name="a1b2c3">A1B1C3</string>
+    <string name="masukan_kode">Masukan Kode</string>
+    <string name="dengan_menekan_tombol_masuk_berarti_anda_menyetujui">Dengan menekan tombol masuk berarti Anda Menyetujui</string>
+    <string name="kebijakan_data">Kebijakan Data</string>
+    <string name="ketentuan_pengguna">Ketentuan Pengguna</string>
+    <string name="dan">dan</string>
+    <string name="kami">kami</string>
+    <string name="masuk">Masuk</string>
+    <string name="beli_kode_keluarga_disini">Beli Kode Keluarga Disini</string>
+    <string name="belum_punya_kode_keluarga">Belum Punya Kode Keluarga ?</string>
+    <string name="kode_keluargaa">Kode Keluarga</string>
+    <string name="umur_kamu">Umur Kamu</string>
+    <string name="nama_panggilan_kamu">Nama Panggilan Kamu</string>
+    <string name="contoh_budi">Contoh : Budi</string>
+    <string name="contoh_12">Contoh : 12</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="beres_sekarang_kamu_udah_bisa_ngecek_penggunaan_hp_mu_tiap_hari_buat_bantu_kamu_ngatur_waktu">BERES!Sekarang Kamu Udah Bisa Ngecek Penggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)</string>
+    <string name="oke">Oke</string>
+    <string name="beres_sekarang_kamu_udah_bisa_ngecek_penggunaan_hp_mu_tiap_hari_buat_bantu_kamu_ngatur_waktu1">Beres! sekarang Kamu Udah Bisa Ngecek Penggunaan HP mu tiap hari buat bantu kamu ngatur waktu:)</string>
+    <string name="mulai">Mulai</string>
+
+
+</resources>
